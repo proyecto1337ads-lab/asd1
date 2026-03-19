@@ -57,7 +57,7 @@ body {
 .logo {
   width: clamp(260px, 35vw, 520px);
   margin-bottom: 25px;
-  opacity: 0.55;
+  opacity: 0.80;
   filter: drop-shadow(0 0 25px rgba(255,255,255,0.15));
   mix-blend-mode: screen;
   transition: 0.5s ease;
